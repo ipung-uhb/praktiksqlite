@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PraktikSqlLiteAndroid">
         <activity
+            android:name=".UpdateCourseActivity"
+            android:exported="true" />
+        <activity
             android:name=".ViewCourses"
             android:exported="true" />
         <activity
